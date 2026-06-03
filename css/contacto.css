@@ -1,0 +1,7 @@
+#contacto {
+    height: 400px;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: stretch;
+}
